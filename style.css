@@ -92,7 +92,8 @@ section{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: auto;
+    min-height: 100vh;
 }
 
 .home-content{
@@ -311,8 +312,8 @@ span{
 }
 
 .about-img img{
-    width: 90%;
-    height: 90%;
+    width: 50%;
+    height: 50%;
     border-radius: 50%;
     border: .2rem solid var(--main-color);
 }
@@ -322,8 +323,8 @@ span{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%) rotate(0);
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 60%;
     border-radius: 50%;
     border-top: var(--second-bg-color) .2rem solid;
     border-bottom: var(--second-bg-color) .2rem solid;
@@ -348,7 +349,7 @@ span{
 
 .about-content p{
     position: relative;
-    font-size: 2.4rem;
+    font-size: 2rem;
     margin: 2rem 0 3rem;
 }
 
@@ -422,7 +423,8 @@ span{
 
                     img{
                         height: auto;
-                        width: 100%;
+                        width: 90%;
+                        margin: 0 auto;
                         object-fit: fill;
                     }
                 }
