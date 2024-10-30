@@ -591,6 +591,15 @@ span{
     padding: .5rem 1.5rem;
     z-index: 1;
     overflow: hidden;
+   
+}
+
+.skills-content-1{
+ background: url(image/IMG_7958.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 50vh;
 }
 
 .skills-box .skills-conten:first-of-type{
@@ -851,6 +860,50 @@ section:nth-child(odd) .animate.scroll,
     width: 105%;
 }
 
+.product-card{
+    background: url(image/IMG_8088.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-1{
+    background: url(image/IMG_7960.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-2{
+    background: url(image/IMG_7962.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-3{
+    background: url(image/IMG_7963.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-4{
+    background: url(image/IMG_7968.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-5{
+    background: url(image/image-6-copyright-600x400.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
 @media (max-width: 1200px) {
     html{
         font-size: 55%;
@@ -950,7 +1003,7 @@ section:nth-child(odd) .animate.scroll,
               height: 70rem;
               width: 25rem;
               margin: 2rem auto;
-            margin-right: auto;
+             margin-right: auto;
               box-shadow: 0 0 .3rem rgba(0,0,0.5);
               border-radius: .5rem;
               position: relative;
