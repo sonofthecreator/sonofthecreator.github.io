@@ -861,7 +861,7 @@ section:nth-child(odd) .animate.scroll,
 }
 
 .product-card-6{
-    background: url(image/IMG_8088.JPG);
+    background: url(image/Screenshot\ 2024-10-27\ 012633.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -897,6 +897,13 @@ section:nth-child(odd) .animate.scroll,
 
 .product-card-5{
     background: url(image/image-6-copyright-600x400.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.product-card-8{
+    background: url(image/IMG_8088.JPG);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
