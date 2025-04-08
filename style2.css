@@ -302,3 +302,8 @@ body{
         width: 30rem;
     }
 }
+
+.btn{
+    font-size: 1.7rem;
+    color: blue;
+}
