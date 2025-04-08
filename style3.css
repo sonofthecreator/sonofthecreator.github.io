@@ -1,0 +1,94 @@
+.products-slider .box{
+    border-radius: .5rem;
+    text-align: center;
+    padding: 3rem 2rem;
+    height:40rem;
+    outline-offset: -1rem;
+    outline: var(--outline);
+    box-shadow: var(--box-shadow);
+    background: url(image/Snapins.ai_475410118_18292571464240376_765681141543133019_n_1080.jpg), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+}
+
+.products-slider .box.box2{
+    background: url(image/Snapins.ai_483305205_18296352466240376_8743820469429773842_n_1080.jpg), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box3{
+    background: url(image/IMG_1129.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50rem;
+}
+
+.products-slider .box.box4{
+    background: url(image/), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box5{
+    background: url(image/IMG_1134.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box6{
+    background: url(image/IMG_1130.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box7{
+    background: url(image/Snapins.ai_483305205_18296352466240376_8743820469429773842_n_1080.jpg), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box8{
+    background: url(image/IMG_1002.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box9{
+    background: url(image/Snapins.ai_413262313_381487977896180_5381075268112272992_n_1080.jpg), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box10{
+    background: url(image/IMG_7963.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box11{
+    background: url(image/IMG_7962.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.products-slider .box.box12{
+    background: url(image/IMG_8088.JPG), no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
