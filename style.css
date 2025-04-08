@@ -241,11 +241,19 @@ button{
         padding-bottom: 2rem;
 
     }
+
+    .content h1 {
+        font-size: 3rem;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: expanded;
+        font-family: "Rubik Mono One", monospace;
+    }
+
+
 }
 
-@media (max-width:600px) {
- 
-}
+
 
 .swiper-button-next, .swiper-button-prev{
     color: var(--second-bg-color);

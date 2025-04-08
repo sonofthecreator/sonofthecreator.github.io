@@ -60,7 +60,7 @@ body{
 .products-slider .box.box3{
     background: url(image/Snapins.ai_482507212_18295647517240376_4688557559050602665_n_1080.jpg), no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
     width: 50rem;
 }
@@ -276,5 +276,29 @@ body{
     &:hover{
         background-color: white;
         color: black;
+    }
+}
+
+.btn1{
+    cursor: pointer;
+    font-size: 1.5rem;
+    border: solid white 2px;
+    color: aliceblue;
+    transition: all .5s;
+    padding: 6px;
+    border-radius: 10px;
+    &:hover{
+        background-color: white;
+        color: black;
+    }
+}
+
+@media (max-width:600px) {
+    .products-slider .box.box3{
+        background: url(image/Snapins.ai_482507212_18295647517240376_4688557559050602665_n_1080.jpg), no-repeat;
+        background-position: left;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 30rem;
     }
 }
