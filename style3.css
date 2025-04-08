@@ -1,9 +1,8 @@
 .products-slider .box.box3{
     background: url(image/IMG_1129.JPG), no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
-    width: 50rem;
 }
 
 .products-slider .box.box5{
